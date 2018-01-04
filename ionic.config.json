@@ -1,0 +1,12 @@
+{
+  "name": "eValveMobile",
+  "app_id": "e1de856d",
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*"
+  ],
+  "type": "ionic1",
+  "integrations": {
+    "cordova": {}
+  }
+}

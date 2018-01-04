@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "outDir": "www/js",
+    "sourceMap": true,
+    "target": "es5",
+    "lib": ["es2017", "dom"]
+  },
+  "include": [
+    "www/**/*"
+  ],
+  "exclude": [
+    "www/js/**",
+    "www/lib/**"
+  ]
+}
